@@ -2,7 +2,7 @@
 
 try {
     
-    console.log("hello");
+    // console.log("hello");
     let abc="";
     let buttons=document.querySelectorAll('.btn');
     // let msn=[];
